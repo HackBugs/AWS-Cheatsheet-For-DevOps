@@ -68,6 +68,3 @@ Here's a description for your AWS cheat sheet repository on GitHub:
 
 3. **Contribute**
    Contributions are welcome! If you have additional tips, commands, or best practices, feel free to submit a pull request.
-
-
-Feel free to customize this description to better fit your vision for the cheat sheet repository.
