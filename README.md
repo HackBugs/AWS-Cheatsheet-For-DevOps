@@ -71,11 +71,11 @@ Here's a description for your AWS cheat sheet repository on GitHub:
 
    # EC2
     - Instances
-      Images
-      Elastic Block Store
-      Network & Security
-      Load Balancing
-      Auto Scaling
+    - Images
+    - Elastic Block Store
+    - Network & Security
+    - Load Balancing
+    - Auto Scaling
 
 
    ---
