@@ -9,7 +9,7 @@ Here's a description for your AWS cheat sheet repository on GitHub:
 
 # AWS Cheat Sheet
 
-- **AWS Cheat Sheet repository! This repo serves as a comprehensive and easy-to-navigate guide for Amazon Web Services (AWS) essentials. Whether you're a beginner just getting started or an advanced user looking for quick references, this cheat sheet will provide you with the necessary commands, tips, and best practices for efficiently managing your AWS environment.
+- AWS Cheat Sheet repository! This repo serves as a comprehensive and easy-to-navigate guide for Amazon Web Services (AWS) essentials. Whether you're a beginner just getting started or an advanced user looking for quick references, this cheat sheet will provide you with the necessary commands, tips, and best practices for efficiently managing your AWS environment.
 
 ## Contents
 
