@@ -68,3 +68,274 @@ Here's a description for your AWS cheat sheet repository on GitHub:
 
 3. **Contribute**
    Contributions are welcome! If you have additional tips, commands, or best practices, feel free to submit a pull request.
+
+   ---
+# Here is a categorized list of AWS services based on your request:
+### Compute
+- EC2
+- Lightsail
+- Lambda
+- Batch
+- Elastic Beanstalk
+- Serverless Application Repository
+- AWS Outposts
+- EC2 Image Builder
+- AWS App Runner
+- AWS SimSpace Weaver
+
+### Containers
+- Elastic Container Service (ECS)
+- Elastic Kubernetes Service (EKS)
+- Red Hat OpenShift Service on AWS
+- Elastic Container Registry (ECR)
+
+### Storage
+- S3
+- EFS
+- FSx
+- S3 Glacier
+- Storage Gateway
+- AWS Backup
+- AWS Elastic Disaster Recovery
+
+### Database
+- RDS
+- ElastiCache
+- Neptune
+- Amazon QLDB
+- Amazon DocumentDB
+- Amazon Keyspaces
+- Amazon Timestream
+- DynamoDB
+- Amazon MemoryDB
+
+### Migration & Transfer
+- AWS Migration Hub
+- AWS Application Migration Service
+- Application Discovery Service
+- Database Migration Service
+- AWS Transfer Family
+- AWS Snow Family
+- DataSync
+- AWS Mainframe Modernization
+
+### Networking & Content Delivery
+- VPC
+- CloudFront
+- Route 53
+- API Gateway
+- Direct Connect
+- AWS App Mesh
+- Global Accelerator
+- AWS Cloud Map
+- Route 53 Application Recovery Controller
+- AWS Private 5G
+
+### Developer Tools
+- CodeStar
+- CodeCommit
+- CodeBuild
+- CodeDeploy
+- CodePipeline
+- Cloud9
+- CloudShell
+- X-Ray
+- AWS FIS
+- CodeArtifact
+- Amazon CodeCatalyst
+- AWS AppConfig
+- Amazon Q Developer (Including Amazon CodeWhisperer)
+- Application Composer
+- AWS App Studio
+
+### Customer Enablement
+- AWS IQ
+- Managed Services
+- Activate for Startups
+
+### Support
+- AWS re:Post Private
+
+### Robotics
+- AWS RoboMaker
+
+### Blockchain
+- Amazon Managed Blockchain
+
+### Satellite
+- Ground Station
+
+### Quantum Technologies
+- Amazon Braket
+
+### Management & Governance
+- AWS Organizations
+- CloudWatch
+- AWS Auto Scaling
+- CloudFormation
+- AWS Config
+- OpsWorks
+- Service Catalog
+- Systems Manager
+- Trusted Advisor
+- Control Tower
+- AWS Well-Architected Tool
+- AWS Chatbot
+- Launch Wizard
+- AWS Compute Optimizer
+- Resource Groups & Tag Editor
+- Amazon Grafana
+- Amazon Prometheus
+- AWS Resilience Hub
+- Incident Manager
+- AWS License Manager
+- Service Quotas
+- AWS Proton
+- CloudTrail
+- AWS Resource Explorer
+- AWS User Notifications
+- AWS Health Dashboard
+- AWS Telco Network Builder
+
+### Media Services
+- Kinesis Video Streams
+- MediaConvert
+- MediaLive
+- MediaPackage
+- MediaStore
+- MediaTailor
+- Elemental Appliances & Software
+- Elastic Transcoder
+- Nimble Studio
+- MediaConnect
+- Amazon Interactive Video Service
+- AWS Deadline Cloud
+
+### Machine Learning
+- Amazon SageMaker
+- Amazon Augmented AI
+- Amazon CodeGuru
+- Amazon DevOps Guru
+- Amazon Comprehend
+- Amazon Forecast
+- Amazon Fraud Detector
+- Amazon Kendra
+- Amazon Personalize
+- Amazon Polly
+- Amazon Rekognition
+- Amazon Textract
+- Amazon Transcribe
+- Amazon Translate
+- AWS DeepComposer
+- AWS DeepRacer
+- AWS Panorama
+- Amazon Monitron
+- AWS HealthLake
+- Amazon Lookout for Vision
+- Amazon Lookout for Equipment
+- Amazon Lookout for Metrics
+- Amazon Lex
+- Amazon Comprehend Medical
+- AWS HealthOmics
+- Amazon Bedrock
+
+### Analytics
+- Athena
+- Amazon Redshift
+- CloudSearch
+- Amazon OpenSearch Service
+- Kinesis
+- QuickSight
+- Data Pipeline
+- AWS Data Exchange
+- AWS Lake Formation
+- MSK
+- AWS Glue DataBrew
+- Amazon FinSpace
+- AWS Glue
+- Amazon Data Firehose
+- EMR
+- AWS Clean Rooms
+- Amazon DataZone
+- AWS Entity Resolution
+- Managed Apache Flink
+
+### Security, Identity, & Compliance
+- Resource Access Manager
+- Cognito
+- Secrets Manager
+- GuardDuty
+- Amazon Inspector
+- Amazon Macie
+- IAM Identity Center
+- Certificate Manager
+- Key Management Service
+- CloudHSM
+- Directory Service
+- WAF & Shield
+- AWS Firewall Manager
+- AWS Artifact
+- Detective
+- AWS Signer
+- AWS Private Certificate Authority
+- Security Hub
+- AWS Audit Manager
+- Security Lake
+- Amazon Verified Permissions
+- AWS Payment Cryptography
+- IAM
+
+### Cloud Financial Management
+- AWS Marketplace
+- AWS Billing Conductor
+- Billing and Cost Management
+
+### Front-end Web & Mobile
+- AWS Amplify
+- AWS AppSync
+- Device Farm
+- Amazon Location Service
+
+### Application Integration
+- Step Functions
+- Amazon AppFlow
+- Amazon MQ
+- Simple Notification Service (SNS)
+- Simple Queue Service (SQS)
+- SWF
+- Managed Apache Airflow
+- Amazon EventBridge
+- AWS B2B Data Interchange
+
+### Business Applications
+- Amazon Connect
+- Amazon Chime
+- Amazon Simple Email Service (SES)
+- Amazon WorkDocs
+- Amazon WorkMail
+- AWS Supply Chain
+- AWS AppFabric
+- AWS Wickr
+- Amazon Chime SDK
+- Amazon One Enterprise
+- Amazon Pinpoint
+
+### End User Computing
+- WorkSpaces
+- AppStream 2.0
+- WorkSpaces Secure Browser
+- WorkSpaces Thin Client
+
+### Internet of Things
+- IoT Analytics
+- IoT Device Defender
+- IoT Device Management
+- IoT Greengrass
+- IoT SiteWise
+- IoT Core
+- IoT Events
+- AWS IoT FleetWise
+- IoT TwinMaker
+
+### Game Development
+- Amazon GameLift
