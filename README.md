@@ -69,14 +69,20 @@ Here's a description for your AWS cheat sheet repository on GitHub:
 3. **Contribute**
    Contributions are welcome! If you have additional tips, commands, or best practices, feel free to submit a pull request.
 
-   # EC2
+   # **EC2 (Elastic Compute Cloud)**
     - Instances
     - Images
     - Elastic Block Store
     - Network & Security
     - Load Balancing
     - Auto Scaling
-
+  # **S3 (Simple Storage Service)**
+  # **IAM (Identity and Access Management)**
+  # **RDS (Relational Database Service)**
+  # **VPC (Virtual Private Cloud)**
+  # **CloudFormation**
+  # **Lambda**
+  # **CloudWatch**
 
    ---
 # Here is a categorized list of AWS services based on your request:
