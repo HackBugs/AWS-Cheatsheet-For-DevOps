@@ -43,7 +43,7 @@
 This table now includes the default ports for the various DevOps tools where applicable.
 _______________________________________________________________________________________________________________________________________________________________________________________________________
 
-## Here's an extended table categorizing DevOps tools into their respective types (IaaS, PaaS, SaaS) for both open source and AWS equivalents:
+<details><summary><b>Here's an extended table categorizing DevOps tools into their respective types (IaaS, PaaS, SaaS) for both open source and AWS equivalents:</b></summary>
 
 ### DevOps Tools
 | Open Source DevOps Tool | AWS Equivalent | Purpose | Default Port |
@@ -113,7 +113,9 @@ ________________________________________________________________________________
 
 This extended table categorizes various DevOps tools, their AWS equivalents, purposes, and default ports where applicable. It also includes additional categories for IaaS, PaaS, and SaaS tools.
 ________________________________________________________________________________________________________________________________________________________________________________________________________
-This repository provides a concise and comprehensive guide to essential AWS services, including **EC2, S3, IAM, RDS, VPC, CloudFormation, Lambda, and CloudWatch** . Ideal for both beginners and advanced users, it offers quick references for commands, tips, and best practices. Contributions are welcome to enhance this resource.
+<details><summary><b>This repository provides a concise and comprehensive guide to essential AWS services, including **EC2, S3, IAM, RDS, VPC, CloudFormation, Lambda, and CloudWatch** . Ideal for both beginners and advanced users, it offers quick references for commands, tips, and best practices. Contributions are welcome to enhance this resource.</b></summary>
+
+## Here's an extended table categorizing DevOps tools into their respective types (IaaS, PaaS, SaaS) for both open source and AWS equivalents:
 
 ## AWS
 
@@ -199,9 +201,7 @@ Here's a description for your AWS cheat sheet repository on GitHub:
   ## **CloudWatch**
 ```
 ________________________________________________________________________________________________________________________________________________________________________________________________________
-
-## list of AWS services categorized with their open-source tool equivalents and purposes:
-
+<details><summary><b>list of AWS services categorized with their open-source tool equivalents and purposes</b></summary>
 ## Compute
 
 | AWS Service | Open Source Tool | Purpose |
