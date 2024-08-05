@@ -1,7 +1,7 @@
 # AWS-Cheatsheet-Devops
-Author : ✍️ Hackbugs
+- Author : ✍️ Hackbugs
 
-### list of open-source DevOps tools along with their equivalents used in AWS DevOps:
+## list of open-source DevOps tools along with their equivalents used in AWS DevOps:
 
 | Open Source DevOps Tool | AWS Equivalent | Purpose | Default Port |
 |-------------------------|----------------|---------|--------------|
@@ -41,6 +41,77 @@ Author : ✍️ Hackbugs
 | Ant                     | AWS CodeBuild | Build automation | N/A |
 
 This table now includes the default ports for the various DevOps tools where applicable.
+_______________________________________________________________________________________________________________________________________________________________________________________________________
+
+## Here's an extended table categorizing DevOps tools into their respective types (IaaS, PaaS, SaaS) for both open source and AWS equivalents:
+
+### DevOps Tools
+| Open Source DevOps Tool | AWS Equivalent | Purpose | Default Port |
+|-------------------------|----------------|---------|--------------|
+| Kubernetes              | Amazon EKS (Elastic Kubernetes Service) | Container orchestration | N/A (Uses multiple ports) |
+| SonarQube               | AWS CodeGuru Reviewer | Code quality and security analysis | 9000 |
+| Nexus                   | AWS CodeArtifact | Artifact repository management | 8081 |
+| Jenkins                 | AWS CodePipeline | Continuous Integration/Continuous Deployment (CI/CD) | 8080 |
+| Prometheus              | Amazon CloudWatch | Monitoring and alerting | 9090 |
+| Grafana                 | Amazon Managed Grafana | Visualization and analytics | 3000 |
+| Ansible                 | AWS Systems Manager (for automation) | Configuration management and automation | N/A (SSH-based, uses port 22) |
+| Terraform               | AWS CloudFormation | Infrastructure as Code (IaC) | N/A |
+| Docker                  | Amazon ECS (Elastic Container Service) | Containerization and container management | N/A (Uses multiple ports) |
+| Nagios                  | Amazon CloudWatch | Monitoring and alerting | 5666 (NRPE), 5667 (NSCA), 8080 (Web interface) |
+| Git                     | AWS CodeCommit | Source code management | N/A (Uses SSH - 22, HTTP/S - 80/443) |
+| GitHub                  | AWS CodeCommit | Source code management and collaboration | N/A (Uses SSH - 22, HTTP/S - 80/443) |
+| Helm                    | AWS App Mesh (for managing microservices) | Kubernetes package management | N/A |
+| GitLab                  | AWS CodeCommit, CodePipeline | Source code management, CI/CD | 80 (HTTP), 443 (HTTPS), 22 (SSH) |
+| Travis CI               | AWS CodePipeline | Continuous Integration (CI) | N/A |
+| CircleCI                | AWS CodePipeline | Continuous Integration (CI) | N/A |
+| Bamboo                  | AWS CodePipeline | Continuous Integration/Continuous Deployment (CI/CD) | 8085 |
+| Vault (HashiCorp)       | AWS Secrets Manager | Secrets management | 8200 |
+| Consul (HashiCorp)      | AWS Cloud Map | Service discovery and configuration | 8500 (HTTP API), 8300 (Server RPC), 8301 (Serf LAN), 8600 (DNS) |
+| ELK Stack (Elasticsearch, Logstash, Kibana) | Amazon OpenSearch Service | Logging, search, and analytics | 9200 (Elasticsearch), 5601 (Kibana), 5044 (Logstash) |
+| Splunk                  | Amazon CloudWatch Logs | Logging and monitoring | 8000 (Web UI), 8089 (Management), 9997 (Forwarding) |
+| Puppet                  | AWS OpsWorks | Configuration management and automation | 8140 |
+| Chef                    | AWS OpsWorks | Configuration management and automation | 443 (HTTPS) |
+| SaltStack               | AWS Systems Manager | Configuration management and automation | 4505 (Publisher), 4506 (Worker) |
+| Selenium                | AWS Device Farm | Automated testing | 4444 (Hub) |
+| JFrog Artifactory       | AWS CodeArtifact | Artifact repository management | 8081 |
+| Rundeck                 | AWS Systems Manager | Operations automation | 4440 |
+| Vagrant                 | AWS CloudFormation (for infrastructure as code) | Development environment automation | N/A |
+| Packer                  | AWS EC2 Image Builder | Automated machine image creation | N/A |
+| Spinnaker               | AWS CodePipeline | Continuous Delivery (CD) | 9000 |
+| Argo CD                 | AWS CodePipeline | Continuous Delivery (CD) for Kubernetes | 8080 |
+| Harbor                  | Amazon ECR (Elastic Container Registry) | Container image registry | 80 (HTTP), 443 (HTTPS) |
+| Maven                   | AWS CodeBuild | Build automation and dependency management | N/A |
+| Ant                     | AWS CodeBuild | Build automation | N/A |
+
+### Infrastructure as a Service (IaaS)
+| Open Source IaaS Tool | AWS IaaS Equivalent | Purpose | Default Port |
+|-----------------------|---------------------|---------|--------------|
+| OpenStack             | Amazon EC2          | Compute resources | N/A |
+| KVM (Kernel-based Virtual Machine) | Amazon EC2 | Virtualization | N/A |
+| Apache CloudStack     | Amazon EC2          | Cloud computing | N/A |
+| Xen Project           | Amazon EC2          | Virtualization | N/A |
+| Proxmox VE            | Amazon EC2          | Virtualization and container management | N/A |
+
+### Platform as a Service (PaaS)
+| Open Source PaaS Tool | AWS PaaS Equivalent | Purpose | Default Port |
+|-----------------------|---------------------|---------|--------------|
+| OpenShift             | AWS Elastic Beanstalk | Application deployment and management | N/A |
+| Cloud Foundry         | AWS Elastic Beanstalk | Application deployment and management | N/A |
+| Dokku                 | AWS Elastic Beanstalk | Application deployment and management | N/A |
+| Tsuru                 | AWS Elastic Beanstalk | Application deployment and management | N/A |
+
+### Software as a Service (SaaS)
+| Open Source SaaS Tool | AWS SaaS Equivalent | Purpose | Default Port |
+|-----------------------|---------------------|---------|--------------|
+| Mattermost            | Amazon Chime        | Team collaboration and messaging | 8065 |
+| Nextcloud             | Amazon WorkDocs     | File sharing and collaboration | 443 |
+| Discourse             | Amazon SES          | Forum and discussion platform | 80, 443 |
+| Taiga                 | AWS CodeStar        | Project management | 8000 |
+| Rocket.Chat           | Amazon Chime        | Team collaboration and messaging | 3000 |
+| SuiteCRM              | Amazon Connect      | Customer relationship management (CRM) | 80, 443 |
+| EspoCRM               | Amazon Connect      | Customer relationship management (CRM) | 80, 443 |
+
+This extended table categorizes various DevOps tools, their AWS equivalents, purposes, and default ports where applicable. It also includes additional categories for IaaS, PaaS, and SaaS tools.
 ________________________________________________________________________________________________________________________________________________________________________________________________________
 This repository provides a concise and comprehensive guide to essential AWS services, including **EC2, S3, IAM, RDS, VPC, CloudFormation, Lambda, and CloudWatch** . Ideal for both beginners and advanced users, it offers quick references for commands, tips, and best practices. Contributions are welcome to enhance this resource.
 
