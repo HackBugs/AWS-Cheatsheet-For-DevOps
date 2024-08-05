@@ -400,11 +400,7 @@ ________________________________________________________________________________
 | Amazon Redshift | Apache Hive | Data warehousing |
 | CloudSearch | Elasticsearch | Search service |
 | Amazon OpenSearch Service | Elasticsearch | Search and analytics |
-| Kinesis
-
-| AWS Service | Open Source Tool | Purpose |
-|-------------|-------------------|---------|
-| Apache Kafka | Real-time data streaming |
+| Kinesis | Apache Kafka | Real-time data streaming |
 | QuickSight | Metabase | Business intelligence and visualization |
 | Data Pipeline | Apache Oozie | Data workflow management |
 | AWS Data Exchange | No direct open-source equivalent | Data exchange marketplace |
