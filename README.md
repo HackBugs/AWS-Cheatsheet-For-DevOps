@@ -1,7 +1,7 @@
 # AWS-Cheatsheet-Devops
 - Author : ✍️ Hackbugs
 
-## list of open-source DevOps tools along with their equivalents used in AWS DevOps:
+<details><summary><b>list of open-source DevOps tools along with their equivalents used in AWS DevOps:</b></summary>
 
 | Open Source DevOps Tool | AWS Equivalent | Purpose | Default Port |
 |-------------------------|----------------|---------|--------------|
