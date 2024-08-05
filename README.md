@@ -402,7 +402,9 @@ ________________________________________________________________________________
 | Amazon OpenSearch Service | Elasticsearch | Search and analytics |
 | Kinesis
 
- | Apache Kafka | Real-time data streaming |
+| AWS Service | Open Source Tool | Purpose |
+|-------------|-------------------|---------|
+| Apache Kafka | Real-time data streaming |
 | QuickSight | Metabase | Business intelligence and visualization |
 | Data Pipeline | Apache Oozie | Data workflow management |
 | AWS Data Exchange | No direct open-source equivalent | Data exchange marketplace |
